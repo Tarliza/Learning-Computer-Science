@@ -13,8 +13,7 @@ All source code is strictly organized by language for easy review:
 * **Python:** Found in the [`projects/pysrc`](./projects/pysrc) directory.
 * **C/C++:** Found in the [`projects/csrc`](./projects/csrc) directory.
 
-**Featured Project:** Currently exploring fundamental logic with projects like a **Cipher Solver** (Demonstrates string manipulation and algorithmic thinking) & e.t.c.
-
+**Featured Project:** Currently exploring fundamental logic with projects like a ​**Cipher Solver** (Demonstrates string manipulation and algorithmic thinking) and a **Card Validation** script (Demonstrates the Luhn Algorithm).
 ---
 
 ## My Learning Focus Areas:
@@ -28,7 +27,7 @@ All source code is strictly organized by language for easy review:
 
 ## Future Goals:
 
-* To apply concepts by building small projects.
+* To apply concepts by consistently building, documenting, and publishing small projects.
 * To contribute to open-source projects (when ready!).
 * To prepare thoroughly for university-level Computer Science.
 * To transition into Data Science and AI concepts (like Linear Algebra and simple Classification models) later this year to bridge my current Python skills with my career aspirations.
