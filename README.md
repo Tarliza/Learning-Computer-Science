@@ -7,6 +7,16 @@ I am passionate about how computers work, artificial intelligence, and problem-s
 
 ---
 
+## 📂 My Project Portfolio
+All source code is strictly organized by language for easy review:
+
+* **Python:** Found in the [`projects/pysrc`](./projects/pysrc) directory.
+* **C/C++:** Found in the [`projects/csrc`](./projects/csrc) directory.
+
+**Featured Project:** Currently exploring fundamental logic with projects like a **Cipher Solver** (Demonstrates string manipulation and algorithmic thinking) & e.t.c.
+
+---
+
 ## My Learning Focus Areas:
 
 * Programming Fundamentals: Getting to grips with core programming concepts and logic.
@@ -21,6 +31,7 @@ I am passionate about how computers work, artificial intelligence, and problem-s
 * To apply concepts by building small projects.
 * To contribute to open-source projects (when ready!).
 * To prepare thoroughly for university-level Computer Science.
+* To transition into Data Science and AI concepts (like Linear Algebra and simple Classification models) later this year to bridge my current Python skills with my career aspirations.
 
 ---
 
