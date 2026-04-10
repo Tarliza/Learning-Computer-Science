@@ -13,7 +13,7 @@ def load_contacts():
             contacts = json.loads(content)
             print("Contacts successfully parsed and loaded")
     except FileNotFoundError:
-        print("No existing contacts file found, starting with an empty list")
+        print("No existing contacts file found starting with an empty list")
         contacts = []
     except json.JSONDecodeError:
         print("Error reading contacts file (corrupted data). Starting with an empty list")
