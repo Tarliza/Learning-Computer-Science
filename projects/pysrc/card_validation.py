@@ -30,7 +30,7 @@ def verify_card_number():
     if luhn_check(card_number):
         print("\n✅ Card number is valid.\n")
     else:
-        print("\n❌ Card number is invalid.\n")
+        print("\n❌ Card number is not invalid.\n")
 
 
 if __name__ == "__main__":
